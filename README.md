@@ -2,19 +2,14 @@
 
 To install all the necessary packages, do the following: 
 
-### Option 1: 
+### Step 1: 
 
 Run the following command from your command line: 
 
 `conda env create -f dash.yml`
 
 
-### Option 2: 
-
-Run the following command from your command line: 
-
-`conda create --name <env> --file requirements.txt`
-
+### Step 2: 
 
 To make the environment available in Jupyter notebook, run the following: 
 
