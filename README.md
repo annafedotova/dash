@@ -14,3 +14,10 @@ Run the following command from your command line:
 Run the following command from your command line: 
 
 `conda create --name <env> --file requirements.txt`
+
+
+To make the environment available in Jupyter notebook, run the following: 
+
+`source activate myenv`
+
+`python -m ipykernel install --user --name myenv --display-name "Python (myenv)"`
