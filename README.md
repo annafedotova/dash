@@ -8,7 +8,7 @@ To install all the necessary packages, do the following:
 
 Run the following command from your command line: 
 
-`conda env create -f dash.yml`
+`conda env create -f dash.yaml`
 
 **Option 2 (using Venv)**: 
 
