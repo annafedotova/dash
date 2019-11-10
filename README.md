@@ -1,6 +1,6 @@
 # dash
 
-If you want to follow the workshop online, without installing anything locally, follow [this link](https://mybinder.org/v2/gh/annafedotova/dash/master) to access Jupyter notebooks.
+If you want to follow the workshop online, without installing anything locally, launch Binder to access Jupyter notebooks with code [![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/annafedotova/dash/master).
 
 To install all the necessary packages, do the following: 
 
